@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+title: "Identity Architecture: The Dual-Map System for Aligned Authority"
+authors:
+  - family-names: Heathcote
+    given-names: Larry
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://github.com/larryheathcote/identity-architecture"
+abstract: "Identity Architecture replaces the Performance Trap with a Dual-Map system that upgrades internal identity to eliminate the Mindset Tax and unlock aligned authority. This repository contains the canonical frameworks, glossary, and proof of the category."
+license: "MIT"
